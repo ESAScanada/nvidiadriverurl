@@ -1,1 +1,1 @@
-https://us.download.nvidia.com/Windows/526.98/526.98-desktop-win10-win11-64bit-international-dch-whql.exe
+https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/528.02/528.02-desktop-win10-win11-64bit-international-dch-whql.exe&lang=us&type=TITAN
